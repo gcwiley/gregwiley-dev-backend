@@ -1,0 +1,7 @@
+{
+    "presets": [
+        "@babel/preset-env"
+    ]
+}
+
+// state 0 includes all the recent changes to the JavaScript Lanuage.
