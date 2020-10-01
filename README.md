@@ -1,3 +1,3 @@
-## create build folder and deploy to production
+# gregwiley.dev
 
-## create remote repo in Azure Dev Ops
+Welcome to the code repo where I am working on my website.
