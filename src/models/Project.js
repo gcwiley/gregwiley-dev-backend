@@ -16,6 +16,10 @@ const ProjectSchema = new Schema({
         type: String,
         required: true
     },
+    gitURL: {
+        type: String,
+        required: true
+    },
     summary: {
         type: String,
         required: true

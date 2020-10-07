@@ -1,20 +1,58 @@
 [
     {
         "name": "My Album App",
-        "status": "This is a test sentence",
-        "summary": "This is a test sentence",
-        "url": "www.apple.com"
+        "status": "In Development",
+        "type": "web application",
+        "url": "https://www.gregwiley.app",
+        "gitUrl": "https://www.apple.com",
+        "description": "This is a test sentence"
     },
     {
         "name": "My Book Library",
-        "status": "This is a test sentence",
-        "summary": "This is a test sentence",
-        "url": "www.apple.com"
+        "status": "In Development",
+        "type":"web application",
+        "url": "https://www.apple.com",
+        "gitUrl": "https://www.apple.com",
+        "description": "This is a test sentence"
+    },
+    {
+        "name": "React Reserve",
+        "status": "In Development",
+        "type": "web application",
+        "url": "https://www.apple.com",
+        "gitUrl": "https://www.apple.com",
+        "description": "This is a test sentence"
+    },
+    {
+        "name": "firebase-material-ui-demo",
+        "status": "In Development",
+        "type":"web application",
+        "url": "https://www.apple.com",
+        "gitUrl": "http://www.apple.com",
+        "description": "This is a test sentence"
+    },
+    {
+        "name": "hooks-news",
+        "status": "In Development",
+        "type":"web application",
+        "url": "https://www.apple.com",
+        "gitUrl": "https://www.apple.com",
+        "description": "This is a test sentence"
+    },
+    {
+        "name": "covid-19-tracker",
+        "status": "In Development",
+        "type":"web application",
+        "url": "https://www.apple.com",
+        "gitUrl": "https://www.apple.com",
+        "description": "This is a test sentence"
     },
     {
         "name": "My Film App",
-        "status": "This is a test sentence",
-        "summary": "This is a test sentence",
-        "url": "www.apple.com"
+        "status": "In Development",
+        "type":"web application",
+        "url": "https://www.apple.com",
+        "gitUrl": "https://www.apple.com",
+        "description": "This is a test sentence"
     }
 ]

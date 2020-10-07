@@ -7,7 +7,7 @@ import path from 'path';
 // Express App
 const app = express();
 
-// app.use(express.static(path.join(__dirname, '/build')));
+app.use(express.static(path.join(__dirname, '/build')));
 
 // Loads all variabled from .env files to "process.env"
 require('dotenv').config();
@@ -20,7 +20,7 @@ app.use(express.json());
 
 app.use(express.urlencoded({ extended: true }))
 
-// SET UP Mongo DB HERE
+// Sets UP Mongo DB 
 const mongooseOptions = {
     useNewUrlParser: true,
     useUnifiedTopology: true,

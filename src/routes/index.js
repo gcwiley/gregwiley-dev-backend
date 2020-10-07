@@ -15,5 +15,7 @@ router.get('/api/project', projectController.getProjectById);
 // Create a Project
 router.post('/api/album', projectController.createProject);
 
-// Delete a Project
+// Delete a Project by ID
 router.delete('/api/project', projectController.deleteProject);
+
+module.exports = router;
