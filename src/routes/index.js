@@ -13,7 +13,7 @@ router.get('/api/projects', projectController.getProjects);
 router.get('/api/project', projectController.getProjectById);
 
 // Create a Project
-router.post('/api/album', projectController.createProject);
+router.post('/api/project', projectController.createProject);
 
 // Delete a Project by ID
 router.delete('/api/project', projectController.deleteProject);

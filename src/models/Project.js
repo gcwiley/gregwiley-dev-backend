@@ -12,15 +12,23 @@ const ProjectSchema = new Schema({
         type: String,
         required: true
     },
-    url: {
+    type: {
         type: String,
         required: true
     },
-    gitURL: {
+    startDate: {
         type: String,
         required: true
     },
-    summary: {
+    liveUrl: {
+        type: String,
+        required: true
+    },
+    gitUrl: {
+        type: String,
+        required: true
+    },
+    description: {
         type: String,
         required: true
     }

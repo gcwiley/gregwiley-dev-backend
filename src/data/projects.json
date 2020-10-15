@@ -3,56 +3,63 @@
         "name": "My Album App",
         "status": "In Development",
         "type": "web application",
-        "url": "https://www.gregwiley.app",
-        "gitUrl": "https://www.apple.com",
-        "description": "This is a test sentence"
+        "startDate": "September 29 2001",
+        "liveUrl": "https://github.com/gcwiley/my-album-app",
+        "gitUrl": "https://github.com/gcwiley/my-album-app",
+        "description": "My Book Library is a simple web application that allows users to manage their favorite music albums in a personal library."
     },
     {
         "name": "My Book Library",
         "status": "In Development",
         "type":"web application",
-        "url": "https://www.apple.com",
-        "gitUrl": "https://www.apple.com",
-        "description": "This is a test sentence"
+        "startDate": "September 29 2001",
+        "liveUrl": "https://github.com/gcwiley/my-book-library",
+        "gitUrl": "https://github.com/gcwiley/my-book-library",
+        "description": "My Book Library is a simple web application that allows users to manage their favorite books in a personal library."
     },
     {
         "name": "React Reserve",
         "status": "In Development",
-        "type": "web application",
-        "url": "https://www.apple.com",
-        "gitUrl": "https://www.apple.com",
-        "description": "This is a test sentence"
+        "type": "tutorial",
+        "startDate": "September 29 2001",
+        "liveUrl": "https://github.com/gcwiley/react-reserve",
+        "gitUrl": "https://github.com/gcwiley/react-reserve",
+        "description": "This is a tutorial from O'Reilly Books"
     },
     {
         "name": "firebase-material-ui-demo",
         "status": "In Development",
         "type":"web application",
-        "url": "https://www.apple.com",
-        "gitUrl": "http://www.apple.com",
-        "description": "This is a test sentence"
+        "startDate": "September 29 2001",
+        "liveUrl": "https://github.com/gcwiley/firebase-material-ui-demo",
+        "gitUrl": "https://github.com/gcwiley/firebase-material-ui-demo",
+        "description": "Basic example of a Material UI Web app that uses Firebase as a database."
     },
     {
         "name": "hooks-news",
         "status": "In Development",
-        "type":"web application",
-        "url": "https://www.apple.com",
-        "gitUrl": "https://www.apple.com",
-        "description": "This is a test sentence"
+        "type":"tutorial",
+        "startDate": "September 29 2001",
+        "liveUrl": "https://github.com/gcwiley/hooks-news",
+        "gitUrl": "https://github.com/gcwiley/hooks-news",
+        "description": "This is a tutorial from O'Reilly Books"
     },
     {
         "name": "covid-19-tracker",
         "status": "In Development",
-        "type":"web application",
-        "url": "https://www.apple.com",
-        "gitUrl": "https://www.apple.com",
-        "description": "This is a test sentence"
+        "type":"tutorial",
+        "startDate": "September 29 2001",
+        "liveUrl": "https://github.com/gcwiley/covid-19-tracker",
+        "gitUrl": "https://github.com/gcwiley/covid-19-tracker",
+        "description": "This is a tutorial from YouTube"
     },
     {
         "name": "My Film App",
         "status": "In Development",
         "type":"web application",
-        "url": "https://www.apple.com",
-        "gitUrl": "https://www.apple.com",
-        "description": "This is a test sentence"
+        "startDate": "September 29 2001",
+        "liveUrl": "https://github.com/gcwiley/my-film-app",
+        "gitUrl": "https://github.com/gcwiley/my-film-app",
+        "description": "My Book Library is a simple web application that allows users to manage their favorite movies in a personal library."
     }
 ]

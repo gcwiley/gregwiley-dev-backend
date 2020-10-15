@@ -19,15 +19,19 @@ exports.getProjectById = async (req, res) => {
 
 // Create a new Project in the Database
 exports.createProject = async (req, res) => {
-    const { name, status, summary } = req.body
+    const { name, status, type, startDate, liveUrl, gitUrl, description } = req.body
     try {
-        if (!name || !status || !summary) {
+        if (!name || !status || !type || !startDate || !liveUrl || !gitUrl || !description ) {
             return res.status(422).send('Project is missing one or more fields')
         }
         const project = await new Project({
             name,
             status,
-            summary
+            type,
+            startDate,
+            liveUrl,
+            gitUrl,
+            description
         }).save()
         res.status(201).json(project)
     } catch (error) {
